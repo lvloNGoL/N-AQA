@@ -1,0 +1,115 @@
+Index: .idea/srs/lesson_2/lesson_2.java
+===================================================================
+diff --git a/.idea/srs/lesson_2/lesson_2.java b/.idea/srс/main/java/lesson_2/lesson_2.java
+rename from .idea/srs/lesson_2/lesson_2.java
+rename to .idea/srс/main/java/lesson_2/lesson_2.java
+--- a/.idea/srs/lesson_2/lesson_2.java	
++++ b/.idea/srс/main/java/lesson_2/lesson_2.java	
+@@ -1,46 +1,47 @@
+-public class lesson_2 { public static void main(String[] args) {
+-    System.out.println("Задание_1 :");
+-    PrintThreeWords();
+-    System.out.println();
+-    System.out.println("Задание_2 :");
+-    checkSumSign();
+-    System.out.println();
+-    System.out.println("Задание_3 :");
+-    printColor();
+-    System.out.println();
+-    System.out.println("Задание_4 :");
+-    compareNumbers();
+-    System.out.println();
+-    System.out.println("Задание_5 :");
+-    sumNumb();
+-    System.out.println();
+-    System.out.println("Задание_6 :");
+-    checkNumbPositive();
+-    System.out.println();
+-    System.out.println("Задание_7 :");
+-    WholeNumb();
+-    System.out.println();
+-    System.out.println("Задание_8 :");
+-    String();
+-    System.out.println();
+-    System.out.println("Задание_9 :");
+-    leapYear();
+-    System.out.println();
+-    System.out.println("Задание_10 :");
+-    IntArray();
+-    System.out.println();
+-    System.out.println("Задание_11 :");
+-    FillArr();
+-    System.out.println();
+-    System.out.println("Задание_12 :");
+-    ArrayMult();
+-    System.out.println();
+-    System.out.println("Задание_13 :");
+-    SquarelArray();
+-    System.out.println();
+-    System.out.println("Задание_14 :");
+-    intArray();
+-}
++public class lesson_2 {
++    public static void main(String[] args) {
++        System.out.println("Задание_1 :");
++        PrintThreeWords();
++        System.out.println();
++        System.out.println("Задание_2 :");
++        checkSumSign();
++        System.out.println();
++        System.out.println("Задание_3 :");
++        printColor();
++        System.out.println();
++        System.out.println("Задание_4 :");
++        compareNumbers();
++        System.out.println();
++        System.out.println("Задание_5 :");
++        sumNumb();
++        System.out.println();
++        System.out.println("Задание_6 :");
++        checkNumbPositive();
++        System.out.println();
++        System.out.println("Задание_7 :");
++        WholeNumb();
++        System.out.println();
++        System.out.println("Задание_8 :");
++        String();
++        System.out.println();
++        System.out.println("Задание_9 :");
++        leapYear();
++        System.out.println();
++        System.out.println("Задание_10 :");
++        IntArray();
++        System.out.println();
++        System.out.println("Задание_11 :");
++        FillArr();
++        System.out.println();
++        System.out.println("Задание_12 :");
++        ArrayMult();
++        System.out.println();
++        System.out.println("Задание_13 :");
++        SquarelArray();
++        System.out.println();
++        System.out.println("Задание_14 :");
++        intArray();
++    }
+     //Задание_1
+     static void PrintThreeWords() {
+         System.out.println("Orange");
+@@ -56,14 +57,13 @@
+         } else {
+             System.out.println("Сумма отрицательная");
+         }
+-
+     }
+     //Задание_3
+     static void printColor() {
+-        int a = 33;
++        int a = 0;
+         if (a <= 0) {
+             System.out.println("Красный");
+-        } else if (a < 0 && a >= 100) {
++        } else if (a > 0 && a <= 100) {
+             System.out.println("Желтый");
+         } else {
+             System.out.println("Зеленый");

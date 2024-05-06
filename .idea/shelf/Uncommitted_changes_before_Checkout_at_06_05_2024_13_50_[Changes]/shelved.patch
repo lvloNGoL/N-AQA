@@ -1,0 +1,71 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"ALL\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ff07f302-5b4a-49d3-be04-23b1583b1c90\" name=\"Changes\" comment=\"lesson-1\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_2/lesson_2.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_3/Person.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_3/User.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_3/lesson_3.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_4/Animal.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_4/Bowl.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_4/Cat.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_4/Dog.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/java/Lesson_4/Main.java\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Lesson_4\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"JavaAutoRunManager\">\r\n    <enabled-run-configurations>\r\n      <run-configuration type=\"MavenRunConfiguration\" name=\" [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate]\" />\r\n    </enabled-run-configurations>\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ePlhAdGfO0hP1hGa8o6xhN0mrc\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Lesson_2.Tasks.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.StudyMain.executor\": \"Run\",\r\n    \"Application.Tasks.executor\": \"Run\",\r\n    \"Application.Tesks.executor\": \"Run\",\r\n    \"Application.User.executor\": \"Run\",\r\n    \"Application.lesson_3.executor\": \"Run\",\r\n    \"Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"Lesson__1\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"jdk.selected.JAVA_MODULE\": \"11\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/AZ/IdeaProjects/N-AQA\",\r\n    \"project.structure.last.edited\": \"Project\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"settings.build.tools.auto.reload\": \"ALL\",\r\n    \"settings.editor.selected.configurable\": \"build.tools\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\AZ\\IdeaProjects\\N-AQA\\Lesson-1\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\AZ\\IdeaProjects\\N-AQA\\.idea\\src\\java\\Lesson_1\" />\r\n      <recent name=\"C:\\Users\\AZ\\IdeaProjects\\N-AQA\" />\r\n      <recent name=\"C:\\Users\\AZ\\IdeaProjects\\N-AQA\\.idea\" />\r\n      <recent name=\"C:\\Users\\AZ\\IdeaProjects\\N-AQA\\.idea\\src\\java\\Lesson_2\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_4.Main\" />\r\n      <module name=\"src\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_4.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"StudyMain\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"StudyMain\" />\r\n      <module name=\"src\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Tasks\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Tasks\" />\r\n      <module name=\"N-AQA\" />\r\n      <option name=\"UNNAMED_CLASS_CONFIGURATION\" value=\"true\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"User\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"User\" />\r\n      <module name=\"src\" />\r\n      <option name=\"UNNAMED_CLASS_CONFIGURATION\" value=\"true\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"lesson_3\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_3.lesson_3\" />\r\n      <module name=\"src\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.User\" />\r\n        <item itemvalue=\"Application.Tasks\" />\r\n        <item itemvalue=\"Application.StudyMain\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"Application.lesson_3\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ff07f302-5b4a-49d3-be04-23b1583b1c90\" name=\"Changes\" comment=\"\" />\r\n      <created>1711814211524</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1711814211524</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Тест-1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711814467957</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711814467957</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Тест-1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711814908590</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711814908590</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"lesson-1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711821485130</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711821485130</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Тест-1\" />\r\n    <MESSAGE value=\"lesson-1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"lesson-1\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -52,30 +52,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.Lesson_2.Tasks.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.StudyMain.executor": "Run",
+-    "Application.Tasks.executor": "Run",
+-    "Application.Tesks.executor": "Run",
+-    "Application.User.executor": "Run",
+-    "Application.lesson_3.executor": "Run",
+-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "Lesson__1",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "jdk.selected.JAVA_MODULE": "11",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/AZ/IdeaProjects/N-AQA",
+-    "project.structure.last.edited": "Project",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2",
+-    "settings.build.tools.auto.reload": "ALL",
+-    "settings.editor.selected.configurable": "build.tools"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.Lesson_2.Tasks.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StudyMain.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Tasks.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Tesks.executor&quot;: &quot;Run&quot;,
++    &quot;Application.User.executor&quot;: &quot;Run&quot;,
++    &quot;Application.lesson_3.executor&quot;: &quot;Run&quot;,
++    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;Lesson__1&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/AZ/IdeaProjects/N-AQA&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\AZ\IdeaProjects\N-AQA\Lesson-1" />
+@@ -87,7 +87,7 @@
+       <recent name="C:\Users\AZ\IdeaProjects\N-AQA\.idea\src\java\Lesson_2" />
+     </key>
+   </component>
+-  <component name="RunManager">
++  <component name="RunManager" selected="Application.lesson_3">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Lesson_4.Main" />
+       <module name="src" />
