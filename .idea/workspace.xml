@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff07f302-5b4a-49d3-be04-23b1583b1c90" name="Changes" comment="lesson-1">
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_2/lesson_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_3/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_3/lesson_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_4/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_4/Bowl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_4/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_4/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Lesson_4/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="MavenRunConfiguration" name=" [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate]" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ePlhAdGfO0hP1hGa8o6xhN0mrc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lesson_2.Tasks.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StudyMain.executor": "Run",
+    "Application.Tasks.executor": "Run",
+    "Application.Tesks.executor": "Run",
+    "Application.User.executor": "Run",
+    "Application.lesson_3.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Lesson__1",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AZ/IdeaProjects/N-AQA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AZ\IdeaProjects\N-AQA\Lesson-1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AZ\IdeaProjects\N-AQA\.idea\src\java\Lesson_1" />
+      <recent name="C:\Users\AZ\IdeaProjects\N-AQA" />
+      <recent name="C:\Users\AZ\IdeaProjects\N-AQA\.idea" />
+      <recent name="C:\Users\AZ\IdeaProjects\N-AQA\.idea\src\java\Lesson_2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_4.Main" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudyMain" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks" />
+      <module name="N-AQA" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="User" />
+      <module name="src" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.lesson_3" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Tasks" />
+        <item itemvalue="Application.StudyMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff07f302-5b4a-49d3-be04-23b1583b1c90" name="Changes" comment="" />
+      <created>1711814211524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711814211524</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Тест-1">
+      <option name="closed" value="true" />
+      <created>1711814467957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711814467957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Тест-1">
+      <option name="closed" value="true" />
+      <created>1711814908590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711814908590</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson-1">
+      <option name="closed" value="true" />
+      <created>1711821485130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711821485130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тест-1" />
+    <MESSAGE value="lesson-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson-1" />
+  </component>
+</project>
